@@ -1,0 +1,2 @@
+rootProject.name='TestMercadoPago'
+include ':app'
